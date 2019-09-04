@@ -1,4 +1,4 @@
-<h1 align="center">Simple TodoApp with Redux-Saga</h1>
+<h1 align="center">Simple LogApp with Redux-Saga</h1>
 
 ## Requirements
 
